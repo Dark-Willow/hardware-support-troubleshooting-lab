@@ -96,9 +96,32 @@ Verification confirmed that no component store corruption or protected system fi
 
 Status: Resolved and verified.
 
-## Practical Evidence
+## Project Documentation
 
-Diagnostic screenshots are available in the [screenshots folder](screenshots/).
+| Document | Description |
+|---|---|
+| [Hardware Inventory Report](docs/hardware-inventory-report.md) | Detailed hardware specifications and health assessment |
+| [Troubleshooting Case Reports](docs/troubleshooting-case-reports.md) | Four real technical incidents, investigations and resolutions |
+| [Diagnostic Commands Reference](docs/diagnostic-commands-reference.md) | PowerShell commands and Windows diagnostic utilities |
+| [Final Assessment and Recommendations](docs/final-assessment-and-recommendations.md) | Diagnostic findings, risk assessment and preventive maintenance plan |
+| [Practical Evidence](screenshots/) | Screenshots documenting the practical lab |
+
+## Key Project Achievements
+
+- Completed 21 practical diagnostic steps.
+- Documented four real technical incidents.
+- Resolved administrative permission issues.
+- Successfully repaired Windows component store corruption.
+- Verified repairs through follow-up diagnostic scans.
+- Produced comprehensive technical documentation.
+
+## Project Status
+
+- Practical assessment: Completed
+- Technical documentation: Completed
+- Identified repairable issues: Resolved and verified
+- Outstanding concerns: Monitoring recommended
+
 
 ## Conclusion
 
